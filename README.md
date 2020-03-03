@@ -1,2 +1,2 @@
-# dborbs.github.io
+# dborbs
 Website for Web Design for Everyone
